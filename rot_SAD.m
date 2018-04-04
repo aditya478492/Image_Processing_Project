@@ -1,0 +1,1 @@
+value_rot=abs((v1rpx-V1wp(1))+(v1rpy-V1wp(2)))+abs((v2rpx-V2wp(1))+(v2rpy-V2wp(2)))+abs((v3rpx-V3wp(1))+(v3rpy-V3wp(2)))+abs((v4rpx-V4wp(1))+(v4rpy-V4wp(2)));

@@ -9,5 +9,4 @@ V3(1)=v3(1)/Zavg;
 V3(2)=v3(2)/Zavg;
 V4(1)=v4(1)/Zavg;
 V4(2)=v4(2)/Zavg;
-
 end
